@@ -1,0 +1,8 @@
+{
+  "name": "metrics.core",
+  "displayName": "Metrics",
+  "version": "0.1.0",
+  "unity": "2021.2",
+  "description": "simple metrics to compare different ragdolls",
+  "hideInEditor": false
+}
